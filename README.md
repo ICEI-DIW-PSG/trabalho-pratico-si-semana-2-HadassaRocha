@@ -20,20 +20,16 @@
       <h2>Objetivo</h2>
       <p>Atuar como Desenvolvedor de Software</p>
 
-    <section>
-      <h2>Formação Acadêmica</h2>
-      <div class="job">
-        <h3>Ensino Médio Completo - Colégio Elite</h3>
-        <p><em>Jan 2020 – Dez 2023</em></p>
-      </div>
+  <h2>Formação Acadêmica</h2>
 
-      <div class="job">
-        <h3>Sistemas de Informação - Puc Minas</h3>
-        <p><em>Início 2025 – Previsão 2029</em></p>
-      </div>
-    </section>
+  <div class="job">
+    <h3>Ensino Médio Completo - Colégio Elite</h3>
+    <p><em>Jan 2020 – Dez 2023</em></p>
+  </div>
 
-    <section>
+  <div class="job">
+    <h3>Sistemas de
+
   <h2>Experiência Profissional</h2>
   <div class="job">
     <h3>Desenvolvedor Full Stack - Microsoft</h3>
