@@ -1,13 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Currículo - Hadassa Carvalho</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<p> - Nome: Hadassa Carvalho </p>    
-<p> - Matricula: 1593566 </p>    
-    <div class="container">
+    <h1> Informações Gerais </h1>
+<p> - Nome: Hadassa Carvalho </p>
+<p> - Matricula: 1593566 </p>
+  <div class="container">
     <header>
   <h1>Hadassa Carvalho</h1>
   <img src="assets/img/Hadassa.jpeg" alt="Foto de Perfil" class="profile-image">
@@ -54,6 +57,9 @@
     <h3>Inglês</h3>
     <p><em>Intermediário</em></p>
   </div>
+  <img src="assets/img/Curriculo.png" alt="Curriculo">
+  <img src="assets/img/Dados.png" alt="Dados">
+</section>
 </section>
 </body>
 </html>
