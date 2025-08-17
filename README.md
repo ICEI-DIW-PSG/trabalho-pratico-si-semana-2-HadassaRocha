@@ -19,7 +19,6 @@
     <section>
       <h2>Objetivo</h2>
       <p>Atuar como Desenvolvedor de Software</p>
-    </section>
 
     <section>
       <h2>Formação Acadêmica</h2>
