@@ -28,7 +28,8 @@
   </div>
 
   <div class="job">
-    <h3>Sistemas de
+    <h3>Sistemas de Informações - Puc Minas</h3>  
+    <p><em>Previsão de conclusão: Ago/2029</em></p>  
 
   <h2>Experiência Profissional</h2>
   <div class="job">
