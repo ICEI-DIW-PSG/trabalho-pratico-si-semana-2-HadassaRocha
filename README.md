@@ -12,5 +12,5 @@
 - Matricula: 1593566
 
 ## Print da tela da página criada (Curriculum Vitae)
-<img src="curriculo.PNG"
+<img src="curriculo.PNG">
 
