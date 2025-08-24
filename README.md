@@ -52,8 +52,54 @@
     <h3>Inglês</h3>
     <p><em>Intermediário</em></p>
   </div>
-  <img src="assets/img/Curriculo.png" alt="Curriculo">
-  <img src="assets/img/Dados.png" alt="Dados">
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+  color: #000000;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  margin-bottom: 5px;
+  font-size: 2.5em;
+  color: #000000;
+}
+
+h2 {
+  color: #000000;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.job h3 {
+  margin-bottom: 5px;
+}
+
+.job ul {
+  margin-top: 0;
+}
 </section>
 </section>
 </body>
