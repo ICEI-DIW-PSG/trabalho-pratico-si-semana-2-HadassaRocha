@@ -6,9 +6,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1> Informações Gerais </h1>
-<p> - Nome: Hadassa Carvalho </p>
-<p> - Matricula: 1593566 </p>
   <div class="container">
     <header>
   <h1>Hadassa Carvalho</h1>
@@ -51,9 +48,17 @@
   <div class="job">
     <h3>Inglês</h3>
     <p><em>Intermediário</em></p>
+    <h3>Espanhol</h3>
+    <p><em>Básico</em></p>
+    <h3>Inglês</h3>
+    <p><em>Intermediário</em></p>
   </div>
 </section>
 </section>
 </body>
 </html>
+
+
+
+
 
