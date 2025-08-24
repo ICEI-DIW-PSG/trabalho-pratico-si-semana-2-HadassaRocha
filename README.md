@@ -12,7 +12,7 @@
   <div class="container">
     <header>
   <h1>Hadassa Carvalho</h1>
- <img src="public/Hadassa.jpg" 
+ <img src="public/Hadassa.jpg"  alt="Foto de Perfil" class="profile-image">
   <p>Rua Walter Ianni, 255 | 1593566@sga.pucminas.br | Telefone: (31) 99554-5484</p>
   <p>19 anos | Feminino</p>
 </header>
